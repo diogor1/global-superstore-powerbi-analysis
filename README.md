@@ -41,8 +41,9 @@ This was my first Power BI portfolio project, and I really enjoyed the process. 
 ---
 
 ## 🖼️ Screenshot
+![dashboard_pbi](https://github.com/user-attachments/assets/69417045-af7a-43ad-80ef-726b458e31c5)
 
-*(Include a screenshot of your dashboard here if possible)*
+
 
 ---
 
