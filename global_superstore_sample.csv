@@ -1,0 +1,101 @@
+Order ID,Country,Category,Segment,Ship Mode,Order Date,Ship Date,Quantity,Unit Price,Discount,Sales,Profit
+ORD-1001,USA,Technology,Home Office,Standard Class,2023-10-17,2023-10-18,1,137.55,0.22,107.29,-12.48
+ORD-1002,USA,Technology,Consumer,Same Day,2023-08-28,2023-09-01,1,124.95,0.01,123.7,12.77
+ORD-1003,UK,Technology,Corporate,First Class,2022-08-14,2022-08-18,10,437.26,0.08,4022.79,1026.96
+ORD-1004,USA,Office Supplies,Corporate,First Class,2022-10-12,2022-10-14,4,181.57,0.29,515.66,-74.44
+ORD-1005,India,Office Supplies,Home Office,First Class,2022-02-14,2022-02-20,8,487.1,0.16,3273.31,88.77
+ORD-1006,USA,Furniture,Consumer,Same Day,2023-08-15,2023-08-17,2,129.39,0.01,256.19,-6.76
+ORD-1007,USA,Technology,Home Office,Second Class,2022-10-12,2022-10-16,6,190.53,0.05,1086.02,219.49
+ORD-1008,India,Furniture,Home Office,First Class,2023-07-01,2023-07-07,4,202.14,0.05,768.13,302.42
+ORD-1009,India,Technology,Corporate,Second Class,2022-02-27,2022-03-01,1,212.56,0.24,161.55,-25.89
+ORD-1010,UK,Furniture,Home Office,First Class,2023-11-03,2023-11-07,7,328.57,0.27,1678.99,-191.87
+ORD-1011,India,Office Supplies,Consumer,Standard Class,2023-08-22,2023-08-26,10,125.27,0.12,1102.38,439.32
+ORD-1012,Canada,Technology,Corporate,First Class,2022-04-23,2022-04-25,3,222.64,0.24,507.62,-82.18
+ORD-1013,Germany,Technology,Corporate,Standard Class,2023-07-21,2023-07-28,1,74.98,0.2,59.98,19.85
+ORD-1014,Germany,Technology,Consumer,Standard Class,2022-10-28,2022-11-01,3,477.83,0.14,1232.8,401.29
+ORD-1015,India,Technology,Consumer,First Class,2023-10-03,2023-10-06,9,93.36,0.18,689.0,177.42
+ORD-1016,Germany,Furniture,Consumer,Second Class,2023-05-16,2023-05-17,2,441.79,0.28,636.18,190.22
+ORD-1017,India,Furniture,Consumer,Same Day,2023-08-04,2023-08-05,2,411.69,0.22,642.24,248.41
+ORD-1018,India,Technology,Home Office,Second Class,2023-07-17,2023-07-19,5,311.17,0.16,1306.91,494.82
+ORD-1019,India,Office Supplies,Consumer,Second Class,2024-01-01,2024-01-04,7,331.94,0.3,1626.51,102.24
+ORD-1020,USA,Furniture,Home Office,Standard Class,2022-08-19,2022-08-20,6,285.88,0.01,1698.13,259.92
+ORD-1021,Canada,Furniture,Home Office,Second Class,2022-08-23,2022-08-24,1,54.01,0.26,39.97,-2.29
+ORD-1022,USA,Furniture,Home Office,Same Day,2023-08-08,2023-08-13,8,247.03,0.07,1837.9,81.3
+ORD-1023,USA,Furniture,Corporate,First Class,2022-12-29,2023-01-02,7,369.96,0.14,2227.16,454.38
+ORD-1024,Germany,Office Supplies,Consumer,Standard Class,2022-04-22,2022-04-24,4,235.33,0.06,884.84,47.01
+ORD-1025,USA,Furniture,Consumer,Second Class,2023-03-30,2023-04-06,9,333.03,0.03,2907.35,361.54
+ORD-1026,Canada,Furniture,Corporate,First Class,2023-02-21,2023-02-25,8,212.5,0.06,1598.0,-263.38
+ORD-1027,Canada,Furniture,Consumer,First Class,2023-04-11,2023-04-14,7,370.64,0.21,2049.64,553.44
+ORD-1028,USA,Technology,Corporate,Second Class,2022-08-11,2022-08-12,10,49.26,0.22,384.23,-4.55
+ORD-1029,UK,Office Supplies,Consumer,Second Class,2022-02-28,2022-03-05,2,52.89,0.26,78.28,-12.46
+ORD-1030,India,Office Supplies,Corporate,Second Class,2023-08-16,2023-08-21,1,221.23,0.19,179.2,26.92
+ORD-1031,Germany,Office Supplies,Corporate,Standard Class,2023-11-17,2023-11-23,6,209.98,0.07,1171.69,237.87
+ORD-1032,UK,Technology,Corporate,Second Class,2022-01-10,2022-01-14,10,498.13,0.3,3486.91,-544.11
+ORD-1033,Germany,Technology,Home Office,Standard Class,2022-12-24,2022-12-25,4,95.72,0.11,340.76,102.31
+ORD-1034,UK,Office Supplies,Consumer,Standard Class,2023-11-15,2023-11-22,9,338.43,0.09,2771.74,1007.13
+ORD-1035,Germany,Technology,Corporate,First Class,2023-07-21,2023-07-23,5,121.1,0.08,557.06,3.19
+ORD-1036,UK,Technology,Corporate,Second Class,2022-02-22,2022-02-23,7,41.16,0.25,216.09,0.03
+ORD-1037,UK,Technology,Consumer,First Class,2023-03-29,2023-04-03,7,73.7,0.17,428.2,157.16
+ORD-1038,USA,Office Supplies,Consumer,Second Class,2023-08-20,2023-08-25,3,40.08,0.13,104.61,1.97
+ORD-1039,India,Technology,Consumer,Second Class,2023-11-14,2023-11-15,6,444.38,0.23,2053.04,89.98
+ORD-1040,Germany,Office Supplies,Home Office,Second Class,2022-06-16,2022-06-23,3,31.9,0.26,70.82,17.13
+ORD-1041,UK,Office Supplies,Corporate,First Class,2022-10-01,2022-10-03,2,38.59,0.11,68.69,5.66
+ORD-1042,USA,Office Supplies,Corporate,Same Day,2022-08-22,2022-08-24,1,211.26,0.2,169.01,-5.55
+ORD-1043,Germany,Furniture,Home Office,First Class,2023-11-27,2023-12-04,9,33.25,0.1,269.32,87.86
+ORD-1044,India,Technology,Consumer,Same Day,2022-02-09,2022-02-10,10,369.7,0.13,3216.39,-37.93
+ORD-1045,India,Technology,Home Office,Second Class,2023-08-14,2023-08-16,5,229.31,0.01,1135.08,127.07
+ORD-1046,USA,Technology,Corporate,First Class,2023-01-08,2023-01-12,2,461.97,0.28,665.24,115.68
+ORD-1047,Canada,Technology,Corporate,Second Class,2023-11-14,2023-11-18,6,161.91,0.12,854.88,-105.69
+ORD-1048,UK,Office Supplies,Home Office,First Class,2023-09-23,2023-09-28,5,420.19,0.12,1848.84,-32.68
+ORD-1049,UK,Technology,Consumer,First Class,2023-04-22,2023-04-26,8,265.36,0.2,1698.3,469.14
+ORD-1050,Germany,Furniture,Consumer,Second Class,2023-06-12,2023-06-18,10,412.84,0.1,3715.56,931.43
+ORD-1051,Canada,Office Supplies,Home Office,Second Class,2022-01-26,2022-01-27,4,313.41,0.3,877.55,229.12
+ORD-1052,USA,Office Supplies,Consumer,Second Class,2023-12-15,2023-12-19,8,90.83,0.12,639.44,135.93
+ORD-1053,Canada,Furniture,Corporate,First Class,2023-12-14,2023-12-19,8,139.62,0.02,1094.62,338.24
+ORD-1054,UK,Technology,Corporate,Same Day,2023-03-30,2023-04-04,9,455.29,0.13,3564.92,240.8
+ORD-1055,Canada,Technology,Consumer,First Class,2022-09-23,2022-09-30,4,153.11,0.25,459.33,122.46
+ORD-1056,USA,Furniture,Consumer,Second Class,2023-03-27,2023-03-28,5,181.21,0.07,842.63,282.97
+ORD-1057,India,Office Supplies,Corporate,Standard Class,2023-01-28,2023-02-03,3,50.83,0.21,120.47,5.37
+ORD-1058,USA,Technology,Corporate,Same Day,2022-07-31,2022-08-07,7,389.5,0.12,2399.32,882.08
+ORD-1059,Canada,Technology,Home Office,Second Class,2022-01-07,2022-01-10,5,429.66,0.23,1654.19,615.45
+ORD-1060,Canada,Technology,Consumer,Same Day,2023-05-15,2023-05-17,5,33.93,0.13,147.6,0.25
+ORD-1061,USA,Furniture,Home Office,Same Day,2022-05-11,2022-05-16,9,209.13,0.01,1863.35,258.33
+ORD-1062,Canada,Office Supplies,Corporate,Same Day,2022-05-19,2022-05-26,8,144.88,0.05,1101.09,-3.95
+ORD-1063,India,Furniture,Corporate,Second Class,2022-10-12,2022-10-19,7,59.31,0.08,381.96,-71.95
+ORD-1064,USA,Technology,Consumer,Second Class,2023-10-28,2023-10-29,1,475.81,0.23,366.37,-29.45
+ORD-1065,Germany,Furniture,Home Office,Standard Class,2022-05-10,2022-05-14,2,124.62,0.17,206.87,45.44
+ORD-1066,Canada,Office Supplies,Home Office,Second Class,2022-06-17,2022-06-20,2,465.87,0.17,773.34,112.5
+ORD-1067,India,Furniture,Home Office,Standard Class,2022-03-19,2022-03-24,4,390.79,0.03,1516.27,470.31
+ORD-1068,USA,Office Supplies,Corporate,Standard Class,2022-12-22,2022-12-27,7,53.1,0.2,297.36,56.06
+ORD-1069,Germany,Technology,Home Office,Same Day,2023-03-20,2023-03-23,8,229.03,0.21,1447.47,347.79
+ORD-1070,USA,Office Supplies,Corporate,Second Class,2023-04-22,2023-04-26,10,428.82,0.08,3945.14,1177.38
+ORD-1071,Germany,Furniture,Corporate,Second Class,2023-04-21,2023-04-26,10,181.47,0.2,1451.76,140.22
+ORD-1072,Germany,Technology,Consumer,Second Class,2022-12-30,2023-01-06,5,442.55,0.1,1991.48,439.54
+ORD-1073,Canada,Office Supplies,Consumer,Standard Class,2022-03-29,2022-03-31,7,383.92,0.15,2284.32,489.68
+ORD-1074,Canada,Technology,Home Office,First Class,2022-10-29,2022-10-31,7,166.98,0.21,923.4,137.53
+ORD-1075,Germany,Furniture,Consumer,Second Class,2023-03-12,2023-03-18,9,357.37,0.1,2894.7,-108.41
+ORD-1076,Canada,Office Supplies,Home Office,First Class,2022-11-20,2022-11-21,9,351.28,0.29,2244.68,-190.97
+ORD-1077,India,Furniture,Corporate,Standard Class,2022-04-13,2022-04-20,4,193.22,0.09,703.32,-13.11
+ORD-1078,Canada,Furniture,Consumer,First Class,2022-02-25,2022-03-02,5,80.61,0.21,318.41,102.23
+ORD-1079,Canada,Furniture,Consumer,Same Day,2023-04-26,2023-04-30,8,483.44,0.1,3480.77,-168.86
+ORD-1080,India,Office Supplies,Consumer,Second Class,2023-05-19,2023-05-20,10,45.73,0.19,370.41,-40.92
+ORD-1081,India,Office Supplies,Corporate,Same Day,2022-05-02,2022-05-07,7,399.56,0.18,2293.47,-148.13
+ORD-1082,India,Technology,Consumer,Second Class,2022-11-01,2022-11-08,10,166.58,0.3,1166.06,201.28
+ORD-1083,USA,Furniture,Consumer,Same Day,2023-10-03,2023-10-05,5,95.39,0.2,381.56,-36.52
+ORD-1084,Germany,Technology,Corporate,Standard Class,2023-04-07,2023-04-13,10,35.67,0.14,306.76,-8.32
+ORD-1085,UK,Office Supplies,Consumer,Second Class,2023-12-05,2023-12-07,5,320.03,0.24,1216.11,239.22
+ORD-1086,Germany,Technology,Home Office,First Class,2023-10-26,2023-10-28,5,54.28,0.25,203.55,-20.45
+ORD-1087,India,Technology,Corporate,Same Day,2023-03-26,2023-03-27,8,355.87,0.21,2249.1,822.28
+ORD-1088,USA,Furniture,Consumer,Standard Class,2022-03-24,2022-03-29,1,372.58,0.27,271.98,44.12
+ORD-1089,India,Technology,Corporate,First Class,2023-11-20,2023-11-27,5,386.29,0.17,1603.1,-152.11
+ORD-1090,Germany,Office Supplies,Corporate,First Class,2022-07-05,2022-07-10,7,256.03,0.19,1451.69,-210.86
+ORD-1091,Canada,Technology,Consumer,Same Day,2023-11-18,2023-11-19,3,352.96,0.1,952.99,-25.8
+ORD-1092,India,Furniture,Home Office,Same Day,2022-04-01,2022-04-04,5,485.69,0.1,2185.61,92.9
+ORD-1093,Canada,Furniture,Consumer,First Class,2023-02-28,2023-03-01,4,318.86,0.16,1071.37,106.17
+ORD-1094,India,Furniture,Home Office,Second Class,2023-07-17,2023-07-19,5,355.16,0.13,1544.95,-196.43
+ORD-1095,USA,Office Supplies,Consumer,Second Class,2022-11-15,2022-11-20,1,64.74,0.17,53.73,21.24
+ORD-1096,Canada,Furniture,Corporate,Second Class,2023-05-26,2023-06-01,5,151.24,0.15,642.77,193.37
+ORD-1097,Germany,Office Supplies,Corporate,First Class,2023-01-28,2023-01-30,10,442.08,0.15,3757.68,1196.51
+ORD-1098,UK,Office Supplies,Home Office,Same Day,2022-01-03,2022-01-06,5,298.36,0.25,1118.85,219.25
+ORD-1099,UK,Technology,Consumer,Same Day,2022-12-20,2022-12-23,9,201.06,0.23,1393.35,501.2
+ORD-1100,Canada,Office Supplies,Home Office,Second Class,2022-08-28,2022-09-04,7,377.46,0.01,2615.8,583.68
